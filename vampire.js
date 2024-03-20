@@ -10,7 +10,9 @@ class Vampire {
 
   // Adds the vampire as an offspring of this vampire
   addOffspring(vampire) {
-
+    console.log(
+      "booo"
+    )
   }
 
   // Returns the total number of vampires created by that vampire
